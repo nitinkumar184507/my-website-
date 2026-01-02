@@ -34,11 +34,11 @@ You can change everything easily in:
 ### Editable Content:
 
 - ✅ **Birthday Date**  
-  Example format: `"July 2, 2025"`  
+  Example format: `"January 3, 2026"`  
   Used in the countdown. Don't change the format.
 
 - ✅ **Special Text**  
-  (Text after “To my...” on the countdown screen)
+  (Text after “To my best sister” on the countdown screen)
 
 - ✅ **Card Messages**
 
